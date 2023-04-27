@@ -14,5 +14,5 @@ Code 301 - Intermediate Software Development
 
 Code 401 - Advanced Software Development
 ```
-
+[Data structure page](https://bayanbanat.github.io/reading-notes/)
 
