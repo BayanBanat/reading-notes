@@ -1,6 +1,6 @@
 # Practice in the Terminal
 
-## The command line is a text-based interface that allows users to interact with their computer's operating system and execute commands by typing text commands rather than using a graphical user interface,.
+## The command line is a text-based interface that allows users to interact with their computer's operating system and execute commands by typing text commands rather than using a graphical user interface.
 
 1.The command line is accessed through a terminal.
 
