@@ -12,7 +12,7 @@
 
 ### Discussion Questions:
 
--  **creativity, problem-solving abilities and leadership skills.
+-  **creativity, problem-solving abilities and leadership skills.**
 
 -  Three things I’ll start doing to “un-stick” myself whenever I get stuck on tough piece of code, logic, or feature !!
 
