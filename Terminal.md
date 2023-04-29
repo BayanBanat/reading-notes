@@ -17,15 +17,15 @@
 7.Common command line commands include cd (change directory), ls (list directory contents), mkdir (make directory), cp (copy file), mv (move or rename file), rm (remove file), cat (display contents of a file), grep (search for specific text within a file), and many more.
 
 
-**mkdir
+**mkdir**
 Make Directory - ie. Create a directory.
-rmdir
+**rmdir**
 Remove Directory - ie. Delete a directory.
-touch
+**touch**
 Create a blank file.
-cp
+**cp**
 Copy - ie. Copy a file or directory.
-mv
+**mv**
 Move - ie. Move a file or directory (can also be used to rename).
-rm
+**rm**
 Remove - ie. Delete a file.
