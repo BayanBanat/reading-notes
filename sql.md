@@ -87,30 +87,36 @@ INSERT INTO customers (first_name, last_name, age)
 VALUES ('Rna', 'ahmed', '27');
 ```
 If you want to insert multiple rows at once, you can use a comma-separated list of value sets in the VALUES clause. For example, the following query inserts two new rows into the "customers" table:
+
 ```
 INSERT INTO customers (first_name, last_name, age)
 VALUES ('sally', 'ayman', '33'),
        ('sally', 'ayman', '33');
-       ```
+```
 
 ![task13](https://user-images.githubusercontent.com/125543324/235307568-f0ee4f14-82a1-49b0-9a7c-f1eef1dbd05c.png)
 
 ### The basic syntax for an **UPDATE** statement is as follows:
+
 ```
 UPDATE table_name
 SET column1 = value1, column2 = value2, ...
 WHERE condition;
 ```
+
 ![task14](https://user-images.githubusercontent.com/125543324/235309325-d07b8412-568c-4482-ba6f-447378f0e1e2.png)
 
 ### The basic syntax for an **DELETE** statement is as follows:
+
 ```
 DELETE FROM mytable
 WHERE condition;
 ```
-![TASK15](https://user-images.githubusercontent.com/125543324/235309472-5f10dd21-4f34-40dd-9302-48802e3021a4.png)
+
+![Task15](https://user-images.githubusercontent.com/125543324/235309472-5f10dd21-4f34-40dd-9302-48802e3021a4.png)
 
 ### The basic syntax for a **CREATE TABLE** statement is as follows:
+
 ```
 CREATE TABLE table_name (
   column1 datatype constraints,
@@ -119,9 +125,11 @@ CREATE TABLE table_name (
   ...
 );
 ```
-![TASK16](https://user-images.githubusercontent.com/125543324/235309651-4f4bee43-9440-4cae-857f-15ef591d0f26.png)
+
+![Task16](https://user-images.githubusercontent.com/125543324/235309651-4f4bee43-9440-4cae-857f-15ef591d0f26.png)
 
 ### The basic syntax for an **ALTER TABLE** statement is as follows:
+
 ```
 ALTER TABLE table_name
 ADD column_name datatype constraints;
@@ -132,10 +140,13 @@ RENAME TO new_table_name;
 ALTER TABLE table_name
 DROP COLUMN column_name;
 ```
-![TASK17](https://user-images.githubusercontent.com/125543324/235310000-7cad6e29-ab75-4636-931f-b7d6b7b2bf97.png)
+
+![task17](https://user-images.githubusercontent.com/125543324/235310000-7cad6e29-ab75-4636-931f-b7d6b7b2bf97.png)
 
 ### The basic syntax for an **DROP TABLE** statement is as follows:
+
 ```
 DROP TABLE table_name;
 ```
+
 ![task18](https://user-images.githubusercontent.com/125543324/235310146-59d7123a-4489-4f4d-a300-e724b179b416.png)
