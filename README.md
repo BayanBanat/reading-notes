@@ -14,8 +14,12 @@ Code 301 - Intermediate Software Development
 
 Code 401 - Advanced Software Development
 ```
+
 [Data structure page](Data_Structures.md)
 
-[Data structure page](Engineering_Readings.md)
 
+[Engineering Readings page](Engineering_Readings.md)
+
+
+[The Growth Mindset page](Mindset.md)
 
