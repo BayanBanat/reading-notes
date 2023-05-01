@@ -12,12 +12,16 @@
 
 ## **Code 401 - Advanced Software Development**
 
-| Class # | Topic |
+| Class # | Content |
 | ------- | ----- |
-| [Class-01](class-01.md) | Intro to Python |
-| 02 | Modules and Testing  |
-| 03 | File IO & Exceptions  |
-| 04 | 	Object Oriented Programming  |
+| 1 |  |[Class-01](Code401/class-01.md)
+| 2 |  [Class-02](Code401/class-01.md) |
+| 3 |  [Class-03](Code401/class-01.md) |
+| 4 | 	[Class-04](Code401/class-01.md)  |
+| 5 | 	[Class-05](Code401/class-01.md)  |
+| 6 | 	[Class-06](Code401/class-01.md)  |
+| 7 | 	[Class-07](Code401/class-01.md)  |
+| 8 | 	[Class-08](Code401/class-01.md)  |
 
 
 [Data structure page](Data_Structures.md)
