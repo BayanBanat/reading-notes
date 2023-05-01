@@ -13,7 +13,7 @@
 
 | Class # | Topic |
 | ------- | ----- |
-| 01 | Intro to Python |
+| [Class-01](class-01.md) | Intro to Python |
 | 02 | Modules and Testing  |
 | 03 | File IO & Exceptions  |
 | 04 | 	Object Oriented Programming  |
@@ -28,4 +28,4 @@
 [The Growth Mindset page](Mindset.md)
 
 
-[Topics](class-01.md)
+[Class-01](class-01.md)
