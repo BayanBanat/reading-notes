@@ -15,7 +15,7 @@
 | Class # | Content |
 | ------- | ----- |
 | 1 |  [Class-01](Code401/class-01.md) |
-| 2 |  [Class-02](Code401/class-01.md) |
+| 2 |  [Class-02](Code401/class-02.md) |
 | 3 |  [Class-03](Code401/class-01.md) |
 | 4 | 	[Class-04](Code401/class-01.md)  |
 | 5 | 	[Class-05](Code401/class-01.md)  |
