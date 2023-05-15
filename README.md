@@ -20,8 +20,8 @@
 | 4 | 	[Class-04](Code401/class-04.md)  |
 | 5 | 	[Class-05](Code401/class-05.md)  |
 | 6 | 	[Class-06](Code401/class-06.md)  |
-| 7 | 	[Class-07](Code401/class-01.md)  |
-| 8 | 	[Class-08](Code401/class-01.md)  |
+| 7 | 	[Class-07](Code401/class-07.md)  |
+| 8 | 	[Class-08](Code401/class-08.md)  |
 
 
 [Data structure page](Data_Structures.md)
