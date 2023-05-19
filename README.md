@@ -23,7 +23,7 @@
 | 7 | 	[Class-07](Code401/class-07.md)  |
 | 8 | 	[Class-08](Code401/class-08.md)  |
 | 8 | 	[Class-09](Code401/class-09.md)  |
-| 8 | 	[Class-08](Code401/class-08.md)  |
+| 8 | 	[Class-10](Code401/class-08.md)  |
 
 
 [Data structure page](Data_Structures.md)
