@@ -21,9 +21,9 @@
 | 5 | 	[Class-05](Code401/class-05.md)  |
 | 6 | 	[Class-06](Code401/class-06.md)  |
 | 7 | 	[Class-07](Code401/class-07.md)  |
-| ## | 	[Stacks-&-Queues](Code401/class-08.md)  |
-| 8 | 	[Class-08](Code401/class-09.md)  |
-| 9 | 	[Class-9](Code401/class-08.md)  |
+| ## | 	[Stacks-&-Queues](Code401/Stacks-and-Queues.md)  |
+| 8 | 	[Class-08](Code401/class-08.md)  |
+| 9 | 	[Class-9](Code401/class-09.md)  |
 
 
 [Data structure page](Data_Structures.md)
