@@ -25,6 +25,7 @@
 | 8 | 	[Class-08](Code401/class-08.md)  |
 | 9 | 	[Class-9](Code401/class-09.md)  |
 | 11 | 	[Class-11](Code401/class-11.md)  |
+| 12 | 	[Class-12](Code401/class-12.md)  |
 
 [Data structure page](Data_Structures.md)
 
