@@ -1,7 +1,8 @@
 # Read: Class 14
 ## Data Visualization
 
-**Reading Questions: **
+**Reading Questions:**
+
 1. 
 **Matplotlib:**
 
@@ -54,5 +55,7 @@ Example use case: You can use histplot() to visualize the distribution of studen
 * Plot Aesthetics: Seaborn focuses on creating visually appealing and informative plots. The cheat sheet provides guidance on plot aesthetics, such as choosing color palettes, adjusting figure size, setting plot styles, and adding annotations. Developers can refer to this section to enhance the visual impact of their plots.
 
 ## Things I want to know more about
+
 Seaborn Tutorial
+
 Bokeh Tutorial
