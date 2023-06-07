@@ -3,15 +3,25 @@
 **Trees** are a fundamental data structure in computer science that have various applications. They are used to represent hierarchical relationships between objects or to organize data in a hierarchical manner. In a tree data structure, nodes are connected by edges, and each node (except the root) has a parent node and zero or more child nodes.
 
 **key terms associated with trees:**
+
 **Node** - A Tree node is a component which may contain its own values, and references to other nodes
+
 **Root** - The root is the node at the beginning of the tree
+
 **K** - A number that specifies the maximum number of children any node may have in a k-ary tree. In a binary tree, k = 2.
+
 **Left** - A reference to one child node, in a binary tree
+
 **Right** - A reference to the other child node, in a binary tree
+
 **Edge** - The edge in a tree is the link between a parent and child node
+
 **Leaf** - A leaf is a node that does not have any children
+
 **Height** - The height of a tree is the number of edges from the root to the furthest leaf
+
 **Binary Search Tree (BST):** A binary search tree is a binary tree in which the left child of a node contains a value less than the node's value, and the right child contains a value greater than the node's value. This property allows for efficient searching, insertion, and deletion operations.
+
 **Balanced Tree:** A balanced tree is a tree in which the heights of the left and right subtrees of any node differ by at most one. Examples of balanced trees include AVL trees and red-black trees, which provide efficient operations even with dynamic data.
 
 **Traversals**
@@ -110,6 +120,5 @@ ALGORITHM breadthFirst(root)
         breadth.enqueue(child)
 ```
 
-**Big O**
-
+![img](https://www.tutorialspoint.com/assets/questions/media/41120/k_ary_tree.jpg)
 
