@@ -29,7 +29,7 @@
 | 13 | 	[Class-13](Code401/class-13.md)  |
 | 14 | 	[Class-14](Code401/class-14.md)  |
 | DS | 	[Trees](Code401/Trees.md)  |
-
+| 16 | 	[class-16](Code401/class-16.md)  |
 
 [Data structure page](Data_Structures.md)
 
