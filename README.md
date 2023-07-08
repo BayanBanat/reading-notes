@@ -31,6 +31,7 @@
 | DS | 	[Trees](Code401/Trees.md)  |
 | 16 | 	[class-16](Code401/class-16.md)  |
 | 17 | 	[class-17](Code401/class-17.md)  |
+| 26 | 	[class-26](Code401/class_26.md)  |
 
 [Data structure page](Data_Structures.md)
 
