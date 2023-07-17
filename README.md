@@ -34,6 +34,7 @@
 | 26 | 	[class-26](Code401/class_26.md)  |
 | 27 | 	[class-27](Code401/class-27.md)  |
 | 28 | 	[class-28](Code401/class_28.md)  |
+| 29 | 	[class-9](Code401/class_29.md)  |
 |Data structure page](Data_Structures.md)|
 
 
