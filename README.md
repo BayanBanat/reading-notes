@@ -35,8 +35,8 @@
 | 27 | 	[class-27](Code401/class-27.md)  |
 | 28 | 	[class-28](Code401/class_28.md)  |
 | 29 | 	[class-29](Code401/class_29.md)  |
-|Data structure page](Data_Structures.md)|
-|Data structure page](Hash_Tables.md)|
+|DS|[Data structure](Data_Structures.md)|
+|DS|[Data structure](Hash_Tables.md)|
 
 
 [Engineering Readings page](Engineering_Readings.md)
