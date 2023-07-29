@@ -37,6 +37,7 @@
 | 29 | 	[class-29](Code401/class_29.md)  |
 | 31 | [class-31](Code401/Class_31.md)  |
 | 32 | [class-32](Code401/class_32.md)  |
+| 33 | [class-33](Code401/class_33.md)  |
 |DS|[Data structure](Data_Structures.md)|
 |DS|[Hash Tables](Code401/Hash_Tables.md)|
 
