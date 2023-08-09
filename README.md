@@ -42,6 +42,9 @@
 | 36 | [class-36](Code401/class_36.md)  |
 |DS|[Data structure](Data_Structures.md)|
 |DS|[Hash Tables](Code401/Hash_Tables.md)|
+|DS|[graph](Code401/graph.md)|
+
+
 
 
 
