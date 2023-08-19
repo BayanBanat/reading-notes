@@ -3,32 +3,32 @@
 **Reading Questions :**
 
 1. 
-  ## React Context for State Management and Data Sharing
+ **React Context for State Management and Data Sharing**
   
   React Context is a powerful feature in the React library that addresses the challenge of sharing state and data across different components within a React     
   application. It eliminates the need for manual passing of props through multiple layers of components, a practice known as "prop drilling."
   
-  ### Creating Context
+  **Creating Context**
   
   To create a context, you use the `React.createContext()` function. This function provides two essential components: the `Provider` and the `Consumer` (or the 
  `useContext` hook, introduced later).
   
-  ### Provider
+  **Provider**
   
   The `Provider` component encapsulates a specific part of the component tree where you want to make shared data accessible. It takes a prop called `value`, 
   which represents the data you wish to share.
   
-  ### Consuming Context
+  **Consuming Context**
   
   The `Consumer` component or the `useContext` hook is employed within components that require access to the shared data. This mechanism enables direct access to 
   the data without the need for explicit prop passing.
   
-  ### Updating Context
+  **Updating Context**
   
   Context data can be updated by modifying the state within the `Provider` component. When the context data changes, all components that consume it will 
   automatically re-render to reflect the updated data.
   
-  ### Example
+  **Example**
   
   ```
   // Creating a context
@@ -58,14 +58,14 @@
   The `useContext` hook is a fundamental feature in React that simplifies the process of accessing data stored within a React Context directly from within a 
   functional component. It serves as a more convenient alternative to using the `Consumer` component and offers a streamlined way to consume context data.
   
-  ### Importing the Context
+  **Importing the Context**
   
   ```
   import React, { useContext } from 'react';
   import MyContext from './MyContext'; // Replace with the actual import path
   ```
   
-  ### Using the useContext Hook
+  **Using the useContext Hook**
   ```jsx
   function MyComponent() {
     const contextData = useContext(MyContext);
@@ -77,7 +77,7 @@
     );
   }
   ```
-  ### Consuming Context Data
+  **Consuming Context Data**
   ```
   function MyComponent() {
     const contextData = useContext(MyContext);
