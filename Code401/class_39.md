@@ -106,3 +106,6 @@
   This example is about creating a blog with Next.js and content managed by Agility CMS.
 
 
+## Things I want to know more about
+
+
