@@ -43,6 +43,7 @@
 | 37 | [class-37](Code401/class_37.md)  |
 | 38 | [class-38](Code401/class_38.md)  |
 | 39 | [class-39](Code401/class_39.md)  |
+| 41 | [class-41](Code401/class_41.md)  |
 |DS|[Data structure](Data_Structures.md)|
 |DS|[Hash Tables](Code401/Hash_Tables.md)|
 |DS|[graph](Code401/graph.md)|
